@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
 </p>  
 
- 
-
 ---
 
 ## 📊 GitHub Stats  
@@ -38,6 +36,21 @@
 
 ---
 
+## 💤 Mood  
+
+<p align="center">  
+  <img src="https://i.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300" />  
+</p>  
+
+<p align="center">  
+  <!-- Random Dev Quote -->  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />  
+</p>
+
+
+
+---
+
 ## 📬 Contact  
 
 - 📧 Email: *amnailyas72v@gmail.com*  
@@ -45,4 +58,4 @@
 
 ---
 
-⭐ From *Amna Ilyas*
+⭐ From *Amna Ilyas*
