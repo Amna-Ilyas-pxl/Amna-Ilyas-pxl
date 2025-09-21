@@ -46,7 +46,7 @@
   <table>  
     <tr>  
       <td align="center" style="background-color:#1a1a1a; border: 2px solid #ff0055; border-radius: 12px; padding: 12px 18px; color:#f5f5f5; font-size:14px; font-weight:bold;">  
-        ✨☕ Powered by coffee and quiet persistence ☕✨  
+        ✨☕ Powered by chai and quiet persistence ☕✨  
       </td>  
     </tr>  
   </table>  
