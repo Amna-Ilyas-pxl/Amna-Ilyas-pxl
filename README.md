@@ -39,13 +39,19 @@
 ## 💤 Mood  
 
 <p align="center">  
-  <img src="https://i.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300" />  
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Tired Cat" width="250"/>  
 </p>  
 
-<p align="center">  
-  <!-- Random Dev Quote -->  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />  
-</p>
+<div align="center">  
+  <table>  
+    <tr>  
+      <td align="center" style="background-color:#1a1a1a; border: 2px solid #ff0055; border-radius: 12px; padding: 12px 18px; color:#f5f5f5; font-size:14px; font-weight:bold;">  
+        ✨☕ Powered by coffee and quiet persistence ☕✨  
+      </td>  
+    </tr>  
+  </table>  
+</div>
+
 
 
 
